@@ -3,3 +3,11 @@
 	justify-content: space-evenly;
 	flex-wrap: wrap;
 }
+.Pokedex-winner {
+	text-transform: uppercase;
+	color: #60a647;
+}
+.Pokedex-looser {
+	text-transform: uppercase;
+	color: #c43d3d;
+}
